@@ -19,8 +19,8 @@ Al completar este curso, serás capaz de:
 
 **Semana 2**
 
-* **Frameworks web:** Aprende cómo usar un framework web para crear aplicaciones web complejas. En este caso, puedes aprender Django, Express.js o Fastapi.
-* **Bases de datos:** Aprende cómo almacenar datos en una base de datos. En este caso, puedes aprender MySQL o SQLite.
+* **Frameworks web:** Aprende cómo usar un framework web para crear aplicaciones web complejas. En este caso, vamos a ocupar un poco de Angular y Express.
+* **Bases de datos:** Aprende cómo almacenar datos en una base de datos. En este caso, ocuparemos MySQL.
 
 **Semana 3**
 
